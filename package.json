@@ -1,0 +1,37 @@
+{
+  "name": "nodejsrestaapi",
+  "version": "1.0.0",
+  "description": "Aplikasi Rest API (NODE JS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/densuz/NodeJS-RestApi.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "REST",
+    "API",
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "DENI SUSANTO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/densuz/NodeJS-RestApi/issues"
+  },
+  "homepage": "https://github.com/densuz/NodeJS-RestApi#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.2.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
+}
